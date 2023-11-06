@@ -66,6 +66,6 @@ for sentence in sentences:
 
 ```
 ## Output:
-
+![o](https://github.com/kaviyabalaji/Experiment-6---Implementation-of-Semantic-Analysis/blob/main/exp8.png)
 ## Result
 Thus, we have successfully implemented a program for Natural Language Processing.
